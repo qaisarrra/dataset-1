@@ -3,34 +3,28 @@
 <a href="https://github.com/drshahizan/dataset/pulls"><img src="https://img.shields.io/github/issues-pr/drshahizan/dataset" alt="Pull Requests Badge"/></a>
 <a href="https://github.com/drshahizan/dataset/issues"><img src="https://img.shields.io/github/issues/drshahizan/dataset" alt="Issues Badge"/></a>
 <a href="https://github.com/drshahizan/dataset/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/drshahizan/dataset?color=2b9348"></a>
-![](https://visitor-badge.glitch.me/badge?page_id=drshahizan/dataset)
+![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fdrshahizan%2Fdataset&labelColor=%23d9e3f0&countColor=%23697689&style=flat)
 
 Don't forget to hit the :star: if you like this repo.
 
 # Dataset
 
-## MongoDB
-
-| Id | Title (JSON File) | Link (Used Icon) |
-|----|-------------------------------------------------------------------------------------------------------|------------------|
-| 1  | sales.json | [GitHub]() |
-| 2  | accounts.json | [GitHub]() |
-| 3  | movies.json | [GitHub]() |
-| 4  | grades.json | [GitHub]( ) |
-| 5  | stories.json | [GitHub]() |
-| 6  | customers.json | [GitHub]() |
-| 7  | trips.json | [GitHub]() |
-| 8  | nicd_hospital_surveillance_data.csv | [GitHub]() |
-| 9  | dataset.json | [GitHub]() |
-| 10 | city_inspections.json | [GitHub]() |
-| 11 | products.json | [GitHub]() |
-| 12 | airline-safety.csv | [GitHub]() |
+| Id | Dataset | Description | File |
+|----|---------|-------------|:------:|
+| 1  | Supply Store Dataset | Dataset containing sales data from the mock office supply company. | <a href="/mongodb/01-sales" ><img src="images/dataset.png" width="24px" height="24px"></a> |
+| 2  | Analytics Dataset | Contains training data for a mock financial services application. | <a href="/mongodb/02-analytics" ><img src="images/dataset.png" width="24px" height="24px"></a> |
+| 3  | Mflix Dataset | Contains movie data. | <a href="/mongodb/03-movie" ><img src="images/dataset.png" width="24px" height="24px"></a> |
+| 4  | Companies Dataset | This collection contains information on companies listed on Crunchbase. | <a href="/mongodb/04-companies" ><img src="images/dataset.png" width="24px" height="24px"></a> |
+| 5  | Airbnb Listings Dataset | Contains details on AirBnB listings. | <a href="/mongodb/05-airbnb" ><img src="images/dataset.png" width="24px" height="24px"></a> |
+| 6  | Tweets Dataset | Contains tweets data. | <a href="/mongodb/06-tweets" ><img src="images/dataset.png" width="24px" height="24px"></a> |
+| 7  | Stories Dataset | Contains information about a specific story.  | <a href="/mongodb/07-stories" ><img src="images/dataset.png" width="24px" height="24px"></a> |
+| 8  | City inspections Dataset | Contains information about a specific inspections.  | <a href="/mongodb/08-city_inspections" ><img src="images/dataset.png" width="24px" height="24px"></a> |
 
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/Python_EDA/issues) for any improvements, suggestions or errors in the content.
 
 You can also contact me using [Linkedin](https://www.linkedin.com/in/drshahizan/) for any other queries or feedback.
 
-![](https://visitor-badge.glitch.me/badge?page_id=drshahizan)
-![](https://komarev.com/ghpvc/?username=drshahizan&label=Views&color=0e75b6&style=flat)
+[![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fdrshahizan&labelColor=%23697689&countColor=%23555555&style=plastic)](https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fdrshahizan)
+![](https://hit.yhype.me/github/profile?user_id=81284918)
 
